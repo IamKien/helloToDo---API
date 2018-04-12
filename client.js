@@ -45,9 +45,3 @@ const createNew = () => {
       console.log(error);
     });
 };
-
-getAll();
-getOne();
-createNew();
-createNew();
-getAll();
